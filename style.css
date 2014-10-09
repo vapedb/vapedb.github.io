@@ -1,0 +1,12 @@
+
+/*
+searchBar: border-color:#CDCDCD;
+*/
+
+
+
+
+.searchBar{display:block; margin-right: 50px; border-style:solid; border-width:1px; background-color:white; border-color:#CDCDCD; width:750px; height:30px;}
+.search-button{}
+.featured-recipes-container{display:block; width:900px; height:800px; background-color: teal;}
+.menu-bar-container{display:block; width:150px; height:500px; background-color: blue;}

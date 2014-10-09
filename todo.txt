@@ -1,0 +1,12 @@
+Website functions
+
+- Recipes
+  - Rating
+  - Reviews
+  - Actual Recipes
+  - links to buy recipes
+  
+- Calculator
+- Search with juice flavorings
+- login
+  - store recipes
